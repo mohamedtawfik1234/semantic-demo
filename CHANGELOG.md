@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mohamedtawfik1234/semantic-demo/compare/v1.0.0...v1.0.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* demo purpose bug fix ([15624e2](https://github.com/mohamedtawfik1234/semantic-demo/commit/15624e27d1e34f20a8c5bff2a41eeeea877a1108))
+
 # 1.0.0 (2020-05-23)
 
 
