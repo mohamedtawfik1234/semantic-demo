@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/mohamedtawfik1234/semantic-demo/compare/v1.0.1...v1.1.0) (2020-06-01)
+
+
+### Features
+
+* newfeat ([e188ecc](https://github.com/mohamedtawfik1234/semantic-demo/commit/e188eccb148e13d9e28f6d02f05b42df41f6d32e))
+* newfeat ([4e515c5](https://github.com/mohamedtawfik1234/semantic-demo/commit/4e515c56862c01e382e41a5ae5194df34e9cb5a2))
+
 ## [1.0.1](https://github.com/mohamedtawfik1234/semantic-demo/compare/v1.0.0...v1.0.1) (2020-06-01)
 
 
